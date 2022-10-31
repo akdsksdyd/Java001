@@ -1,3 +1,4 @@
+
 package naver.lljaewon33.Map;
 
 import java.util.HashMap;
@@ -14,7 +15,7 @@ public class Main {
 		map.put("name", "재원");
 		map.put("age", 1);
 		map.put("job", "student");
-		
+		map.put("name", "나");
 		//Map에서 데이터 가져오기 get사용
 		System.out.println(map.get("name"));
 		System.out.println(map.get("age"));
